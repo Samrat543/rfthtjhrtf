@@ -1,0 +1,474 @@
+/*
+
+    author: Nayeem-khan;
+    website:----;
+    mail: samratk0145@gmail.com;
+
+*/
+
+/*
+    ===index===
+
+    1.HOME 
+    2.OW IT WORKS
+    3.ISCOVER A PROJECT 
+    4.LOG 
+    5.FIND OUT MORE 
+
+    =======color=======
+
+        #9f9f9f
+        #99c50a
+   
+*/
+
+/* Themse CSS*/
+
+/* Global CSS */
+
+body
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.fa.fa-bars
+{
+color: black;
+}
+
+.menu-bar
+{
+    color:#9f9f9f ;
+    margin: 20px 11px;
+}
+
+
+
+.banner
+{
+    background: url(../img/banner.jpg)no-repeat;
+    background-size: cover;
+}
+
+.menu-bar:active
+{
+    color: #000;
+}
+
+.banner-text h2
+{
+    margin-top: 172px;
+    text-align: center;
+    color: #fff;
+    font-size: 49px;
+}
+
+.banner-text h5
+{
+    color: #fff;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 55px;
+}
+
+.fa.fa-bars
+{
+    color: #000;
+}
+
+
+.banner-btn
+{
+    background: #99c50a;
+    color: #fff;
+    padding: 19px 22px;
+    font-size: 19.2px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 450px;
+    margin-bottom: 168px;
+}
+
+.tsc-img
+{
+    margin-top: 99px;
+    margin-bottom: 53px;
+}
+
+.tsc-img img
+{
+    margin: 0 auto;
+    display: block;
+}
+
+.tsc-img-t h2
+{
+    width: 430px;
+    text-align: center;
+    color: #515151;
+    font-size: 31.2px;
+    margin: 0px auto;
+}
+
+.tsp
+{
+    margin-bottom: 148px;
+}
+
+.tsc-12
+{
+    width: 940px;
+    font-size: 19.2px;
+    color: #9c9c9c;
+    margin: 35px auto;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.tsc-23
+{
+    width: 940px;
+    font-size: 19.2px;
+    color: #9c9c9c;
+    margin: 0px auto;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.seo
+{
+    height: 100%;
+    background: linear-gradient(90deg, #e2f8ff 50%, #f5f9eb 50%);
+}
+
+.seo-img-s
+{
+    margin-top: 84px;
+    margin-bottom: 109px;
+}
+
+.seo-img-s img
+{
+    width: 130px;
+    margin-left: 96px;
+}
+
+.seo-text
+{
+    margin-top: 45px;
+}
+
+.seo-text h3
+{
+    color: #515151;
+    margin-bottom: 40px;
+    
+}
+
+.seo-text p
+{
+    width: 255px;
+    color: #6e7274;
+}
+
+.seo-btnn
+{
+    margin-top: 30px;
+}
+
+.seo-s-btn
+{
+    background: #26a6d1;
+    border: none;
+    border-radius: 9px;
+    padding: 15px 30px;
+    color: #fff;
+    font-weight: 900;
+}
+
+.tso-text
+{
+
+}
+
+.tso-text h3
+{
+    margin-top: 82px;
+    color: #515151;
+    font-size: 29.2px;
+}
+
+.tso-text p
+{
+    font-size: 17px;
+    width: 698px;
+    margin-bottom: 68px;
+}
+
+.tso-button
+{
+    margin-top: 109px;
+    margin-left: 50px;
+}
+
+.tso-btn
+{
+    background: transparent;
+    border: 1px solid #b6b6b6;
+    padding: 17px 21px;
+    border-radius: 9px;
+    font-weight: 700;
+}
+
+.khan-s
+{
+
+}
+
+.khan-s-img
+{
+   
+}
+
+.khan-s-img img
+{
+    max-width: 341px;
+    height: 250px;
+}
+
+.khan-s-btn
+{
+
+}
+
+.khan-s-btn button
+{
+    background: #26a6d1;
+    padding: 9px 15px;
+    border-radius: 10px;
+    border: none;
+    font-weight: 500;
+    color: #fff;
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 149px;
+}
+
+.khan-s-btn button span
+{
+    font-weight: 900;
+}
+
+.khan-s-text
+{
+    background-color: #f9f9f9;
+    width: 331px;
+    height: auto;
+    border: 1px solid #e5e5e5;
+    margin-bottom: 33px;
+}
+
+.khan-s-text h4
+{
+    color: #484848;
+    font-size: 17.2px;
+    padding: 30px 0px 0px 25px;
+}
+
+.khan-sp-1
+{
+    font-size: 13px;
+    color: #8a8a8a;
+    width: 295px;
+    margin-left: 27px;
+    margin-bottom: 80px;
+}
+
+
+
+.khan-s-text span
+{
+    border: 1px solid #d6d6d6;
+    display: block;
+    width: 252px;
+    margin: 20px auto;
+}
+
+.khan-sp-2
+{
+    margin-left: 15px;
+    font-size: 13px;
+    color: #8d8d8d;
+   
+}
+
+.khan-sp-3
+{
+    margin-left: 40px;
+    font-size: 13px;
+    color: #8d8d8d;
+}
+
+.khan-s-play
+{
+    color: #626262;
+    font-size: 15px;
+    margin-left: 113px;
+    margin-top: 34px;
+    margin-bottom: 27px;
+}
+
+.fa.fa-play
+{
+    color: #add136;
+    margin-left: 12px;
+}
+
+.footer-t-i
+{
+
+}
+
+.footer-img
+{
+
+}
+
+.footer-img img
+{
+    margin-top: 80px;
+    width: 100%;
+}
+
+.footer-t-i span
+{
+    border: 1px solid #ededed;
+    display: block;
+    margin-top: 43px;
+    margin-bottom: 43px;
+    width: 100%;
+}
+
+.footer-t 
+{
+
+}
+
+.footer-t h6
+{
+    color: #a5a5a5;
+    font-size: 13pt;
+    text-align: center;
+    margin-bottom: 21px;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 120px)  and (max-width:800px){
+
+    .banner-text h2 {
+        margin-top: 172px;
+        text-align: center;
+        color: #fff;
+        font-size: 30px;
+    }
+
+    .banner-btn {
+        background: #99c50a;
+        color: #fff;
+        padding: 19px 22px;
+        font-size: 19.2px;
+        border-radius: 10px;
+        border: none;
+        margin-left: 118px;
+        margin-bottom: 168px;
+    }
+
+    .tsc-12 {
+        width: 456px;
+        font-size: 19.2px;
+        color: #9c9c9c;
+        margin: 35px auto;
+        text-align: justify;
+        line-height: 1.5;
+    }
+
+    .tsc-23 {
+        width: 456px;
+        font-size: 19.2px;
+        color: #9c9c9c;
+        margin: 35px auto;
+        text-align: justify;
+        line-height: 1.5;
+    }
+
+    .seo {
+        height: 100%;
+        background: linear-gradient(180deg, #e2f8ff 50%, #f5f9eb 50%);
+    }
+
+    .seo-img-s img {
+        width: 130px;
+        margin-left: 43px;
+    }
+
+    .seo-text h3 {
+        color: #515151;
+        margin-bottom: 40px;
+        margin-left: -44px;
+    }
+
+    .seo-text p {
+        width: 255px;
+        color: #6e7274;
+        margin-left: -44px;
+    }
+
+    .seo-btnn {
+        margin-top: 30px;
+        margin-left: -44px;
+    }
+
+    .tso-text h3 {
+        margin-top: 82px;
+        color: #515151;
+        font-size: 29.2px;
+        text-align: center;
+    }
+
+    .tso-text p {
+        font-size: 17px;
+        width: 446px;
+        margin-bottom: 68px;
+        text-align: center;
+    }
+
+    .tso-button {
+        margin-top: -24px;
+        margin-left: 129px;
+        margin-bottom: 50px;
+    }
+
+    .khan-s {
+        margin-left: 65px;
+    }
+
+    .menu-bar {
+        color: #9f9f9f;
+        margin: 12px 11px;
+        text-align: center;
+        font-weight: 900;
+    }
+    
+    
+
+}
